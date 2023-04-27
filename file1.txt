@@ -1,1 +1,2 @@
 first line in file1 by dev A
+second line added by dev B
